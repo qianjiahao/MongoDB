@@ -9,6 +9,7 @@ MongoDB
 * [配置、启动MongoDB，及常见错误](https://github.com/qianjiahao/MongoDB/wiki/%E9%85%8D%E7%BD%AE%E3%80%81%E5%90%AF%E5%8A%A8MongoDB)
 * [MongoDB从零起步走之insert、remove](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Binsert%E3%80%81remove)
 * [MongoDB从零起步走之update上](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Bupdate%E4%B8%8A)
+* [MongoDB从零起步走之update下](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Bupdate%E4%B8%8B)
 
 
 ####详情请戳 [Wiki](https://github.com/qianjiahao/MongoDB/wiki)####
