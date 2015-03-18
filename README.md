@@ -10,6 +10,8 @@ MongoDB
 * [MongoDB从零起步走之insert、remove](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Binsert%E3%80%81remove)
 * [MongoDB从零起步走之update上](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Bupdate%E4%B8%8A)
 * [MongoDB从零起步走之update下](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Bupdate%E4%B8%8B)
+* [MongoDB从零起步走之find上](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Bfind%E4%B8%8A)
+* [MongoDB从零起步走之find下](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%BB%8E%E9%9B%B6%E8%B5%B7%E6%AD%A5%E8%B5%B0%E4%B9%8Bfind%E4%B8%8B)
 
 
 ####详情请戳 [Wiki](https://github.com/qianjiahao/MongoDB/wiki)####
