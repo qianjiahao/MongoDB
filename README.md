@@ -17,6 +17,7 @@ MongoDB
 * [MongoDB之聚合管道上](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%B9%8B%E8%81%9A%E5%90%88%E7%AE%A1%E9%81%93)
 * [MongoDB之聚合管道下](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%B9%8B%E8%81%9A%E5%90%88%E7%AE%A1%E9%81%93%E4%B8%8B)
 * [MongoDB之聚合布尔操作符](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%B9%8B%E8%81%9A%E5%90%88%E5%B8%83%E5%B0%94%E6%93%8D%E4%BD%9C%E7%AC%A6)
+* [MongoDB之聚合集合操作符](https://github.com/qianjiahao/MongoDB/wiki/MongoDB%E4%B9%8B%E8%81%9A%E5%90%88%E9%9B%86%E5%90%88%E6%93%8D%E4%BD%9C%E7%AC%A6)
 
 ####详情请戳 [Wiki](https://github.com/qianjiahao/MongoDB/wiki)####
 ####持续学习、更新中...####
